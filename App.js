@@ -10,7 +10,6 @@ export default function App() {
       <BottomPerfil/>
      
     </View>
-    // o StatusBar tem como utilidade alterar a barra de status do respectivo dispositivo móvel
     
   );
 }
