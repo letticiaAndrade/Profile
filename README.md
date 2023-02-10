@@ -10,7 +10,7 @@
 <li>Entendendo os imports de componentes</li>
 </ul>
 
-<p>Componentes nativos usados</p>
+<p>Componentes nativos usados:</p>
 <ul>
 <li>View</li>
 <li>Text</li>
