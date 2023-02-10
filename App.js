@@ -1,5 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import TopoPerfil from './components/TopoPerfil';
 import BottomPerfil from './components/BottomPerfil';
 
