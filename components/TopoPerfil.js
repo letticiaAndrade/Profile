@@ -18,7 +18,7 @@ const TopoPerfil=()=> {
         
             <View>
                 <Image 
-                source={require('../assets/icon-exemplo.jpg')}
+                source={require('../assets/icon-exemplo-2.png')}
                 style={style.image}
                 />
             </View>
